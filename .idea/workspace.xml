@@ -95,7 +95,7 @@
       <file leaf-file-name="main.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="0" selection-start="1468" selection-end="1468" vertical-scroll-proportion="0.67653275">
+            <state line="10" column="18" selection-start="791" selection-end="791" vertical-scroll-proportion="0.33826637">
               <folding />
             </state>
           </provider>
@@ -411,7 +411,7 @@
       <option name="ACTIVITY_CLASS" value="net.blue64.Sudoku" />
       <option name="MODE" value="specific_activity" />
       <option name="CHOOSE_DEVICE_MANUALLY" value="false" />
-      <option name="PREFERRED_AVD" value="" />
+      <option name="PREFERRED_AVD" value="MyAvd0" />
       <option name="COMMAND_LINE" value="" />
       <option name="WIPE_USER_DATA" value="false" />
       <option name="DISABLE_BOOT_ANIMATION" value="false" />
@@ -468,7 +468,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="37" y="22" width="1402" height="878" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893" sideWeight="0.5" order="-1" side_tool="false" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" />
@@ -484,7 +484,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963072" sideWeight="0.661823" order="0" side_tool="false" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32893" sideWeight="0.5" order="2" side_tool="false" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32893" sideWeight="0.5" order="2" side_tool="false" />
       <window_info id="Android Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" />
@@ -590,7 +590,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="1468" selection-end="1468" vertical-scroll-proportion="0.67653275">
+        <state line="10" column="18" selection-start="791" selection-end="791" vertical-scroll-proportion="0.33826637">
           <folding />
         </state>
       </provider>
