@@ -78,6 +78,7 @@ public final class R {
         public static final int new_game_label=0x7f080003;
         public static final int new_game_title=0x7f08000f;
         public static final int no_moves_label=0x7f080014;
+        public static final int pad_title=0x7f080016;
         public static final int settings_label=0x7f080008;
         public static final int settings_shortcut=0x7f08000a;
         public static final int settings_title=0x7f080009;

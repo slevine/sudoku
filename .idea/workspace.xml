@@ -16,11 +16,11 @@
   </component>
   <component name="ChangeListManager" verified="true">
     <list default="true" id="587afc26-ef9c-48e7-9176-715cca0ddfde" name="Default" comment="Basic game working.">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/colors.xml" afterPath="$PROJECT_DIR$/res/values/colors.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gen/net/blue64/R.java" afterPath="$PROJECT_DIR$/gen/net/blue64/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/net/blue64/Game.java" afterPath="$PROJECT_DIR$/src/net/blue64/Game.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/net/blue64/Sudoku.java" afterPath="$PROJECT_DIR$/src/net/blue64/Sudoku.java" />
     </list>
     <ignored path="Sudoku.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -95,13 +95,40 @@
   <component name="FileColors" enabled="false" enabledForTabs="false" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Keypad.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Keypad.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/net/blue64/Keypad.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="13" selection-start="273" selection-end="273" vertical-scroll-proportion="0.49516442">
+            <state line="16" column="13" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sudoku.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/net/blue64/Sudoku.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="74" column="12" selection-start="2164" selection-end="2164" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="66" selection-start="857" selection-end="857" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="0" selection-start="1484" selection-end="1484" vertical-scroll-proportion="0.5423729">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -127,16 +154,16 @@
         <option value="$PROJECT_DIR$/res/xml/settings.xml" />
         <option value="$PROJECT_DIR$/src/net/blue64/Prefs.java" />
         <option value="$PROJECT_DIR$/res/values/arrays.xml" />
-        <option value="$PROJECT_DIR$/src/net/blue64/Sudoku.java" />
-        <option value="$PROJECT_DIR$/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/src/net/blue64/PuzzleView.java" />
         <option value="$PROJECT_DIR$/res/anim/shake.xml" />
         <option value="$PROJECT_DIR$/res/anim/cycle_7.xml" />
         <option value="$PROJECT_DIR$/res/layout/keypad.xml" />
         <option value="$PROJECT_DIR$/src/net/blue64/Keypad.java" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/src/net/blue64/Game.java" />
+        <option value="$PROJECT_DIR$/src/net/blue64/Sudoku.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/res/values/strings.xml" />
       </list>
     </option>
   </component>
@@ -615,7 +642,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24702774" sideWeight="0.33553502" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35362998" sideWeight="0.9993012" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35362998" sideWeight="0.9993012" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -719,23 +746,9 @@
         <state line="7" column="12" selection-start="228" selection-end="228" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/blue64/Sudoku.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="13" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gen/net/blue64/R.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="73" column="0" selection-start="3141" selection-end="3141" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="1394" selection-end="1394" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -784,13 +797,6 @@
         <state line="5" column="13" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="822" selection-end="822" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/keypad.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="12" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0">
@@ -807,10 +813,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/net/blue64/Keypad.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="13" selection-start="273" selection-end="273" vertical-scroll-proportion="0.49516442">
+        <state line="16" column="13" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/blue64/Sudoku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="12" selection-start="2164" selection-end="2164" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="66" selection-start="857" selection-end="857" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="1484" selection-end="1484" vertical-scroll-proportion="0.5423729">
+          <folding />
         </state>
       </provider>
     </entry>
